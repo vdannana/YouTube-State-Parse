@@ -1,0 +1,14 @@
+Player Status = "Unstarted" | 2020-04-05 16:44:16.298 index.html:70:23
+Player Status = "Buffering" | 2020-04-05 16:44:16.300 index.html:82:23
+Player Status = "Unstarted" | 2020-04-05 16:44:17.151 index.html:70:23
+Player Status = "Buffering" | 2020-04-05 16:44:18.082 index.html:82:23
+Player Status = "Playing" | 2020-04-05 16:44:18.715 index.html:76:23
+Player Status = "Paused" | 2020-04-05 16:46:06.370 index.html:79:23
+Player Status = "Playing" | 2020-04-05 16:46:07.923 index.html:76:23
+Player Status = "Buffering" | 2020-04-05 16:54:23.316 index.html:82:23
+Player Status = "Playing" | 2020-04-05 16:54:25.346 index.html:76:23
+Player Status = "Buffering" | 2020-04-05 18:37:59.213 index.html:82:23
+Player Status = "Playing" | 2020-04-05 18:38:09.287 index.html:76:23
+Player Status = "Buffering" | 2020-04-05 18:57:03.618 index.html:82:23
+Player Status = "Playing" | 2020-04-05 18:57:40.839 index.html:76:23
+Player Status = "Unstarted" | 2020-04-05 19:53:36.090 index.html:70:23
