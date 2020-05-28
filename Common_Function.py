@@ -4,7 +4,9 @@ import re
 
 import Configuration as conf
 
-
+'''
+ fetches player state and time from the input string Line.
+'''
 def get_State_And_Date(Line):
     reg = re.compile('.*Player Status = "(.+?)".*')
     state = reg.findall(Line)[0]
@@ -12,7 +14,12 @@ def get_State_And_Date(Line):
     date = reg.findall(Line)[0]
     return(state, date)
 
-
+'''
+    Parses the input log file. 
+    Print the following as summary: 
+        1. No. of video start/stop/pause/buffering events. 
+        2. Min/Max/Average stop/pause/buffering duration.
+'''
 def Parse_Log(File_Name):
     if not os.path.isfile(File_Name):
         print('File ' + File_Name + ' is not found')
